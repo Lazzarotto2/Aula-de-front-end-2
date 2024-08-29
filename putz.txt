@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 putz
 banana
+=======
+put
+>>>>>>> 02fcc86afa5b2df61b367b73b31cd26b051dd0c7
